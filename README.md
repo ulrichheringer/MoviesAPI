@@ -1,6 +1,6 @@
 # MoviesAPI
 # This is a simple movie API made with C# and ASP.NET Core 6.0.
-### -  ** *It contains DTOs and it uses MySql to persist data* ** 
+### - *It contains DTOs and it uses MySql to persist data*
 ## It is also fully documented with swagger, so you can acess it with {url}/swagger.
 ----- 
 #### Contains GET, POST, PUT, PATCH and DELETE methods, so it is a complete CRUD.
